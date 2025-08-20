@@ -1,6 +1,6 @@
 from ast import Delete
 from email import header, headerregistry
-import socket
+#import socket
 from pathlib import Path
 import hashlib
 import json
